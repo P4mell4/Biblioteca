@@ -1,0 +1,31 @@
+.today{
+    background-color: #D9BBA0;
+    width: 1200px;
+    height: 700px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.center{
+    background-color: #F2E4DC;
+    width: 1000px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.inputdistance{
+    margin-top: 10px;
+}
+.buttons{
+    margin-left: 780px;
+}
+.pagination{
+    margin-left: 460px;
+}
+.nav{
+    height: 70px;
+}
+.search{
+    width: 450px;
+}
+#texto{
+    margin-left: 100px;
+}
